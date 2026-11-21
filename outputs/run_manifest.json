@@ -1,0 +1,16 @@
+{
+  "project": "Supplement Dose Analysis",
+  "executed_utc": "2026-11-21T10:14:11.808680+00:00",
+  "source": "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/ToothGrowth.csv",
+  "documentation": "https://vincentarelbundock.github.io/Rdatasets/doc/datasets/ToothGrowth.html",
+  "sha256": "b35e084a98731429169eb9b216c9b904e8b9ea127707b741bb8fc146354c26fe",
+  "raw_rows": 60,
+  "analysis_rows": 60,
+  "excluded_rows": 0,
+  "exact_duplicate_rows": 0,
+  "duplicates_policy": "Retained; duplicate values do not necessarily mean duplicate entities.",
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8"
+}

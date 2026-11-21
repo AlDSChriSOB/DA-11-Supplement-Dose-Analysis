@@ -1,0 +1,14 @@
+{
+  "id": 11,
+  "title": "Supplement Dose Analysis",
+  "question": "How does tooth length differ by supplement dose?",
+  "x": "dose",
+  "y": "len",
+  "mode": "group",
+  "caveat": "Guinea-pig experiment; findings are not human medical advice.",
+  "action": "Inspect supplement-specific dose patterns and experimental design.",
+  "csv": "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/ToothGrowth.csv",
+  "doc": "https://vincentarelbundock.github.io/Rdatasets/doc/datasets/ToothGrowth.html",
+  "metric_label": "mean len",
+  "method": "Complete-case descriptive comparison of len by dose; show group counts, mean, minimum and maximum."
+}

@@ -1,0 +1,5 @@
+column,dtype,missing,missing_pct,distinct
+rownames,int64,0,0.0,60
+len,float64,0,0.0,43
+supp,object,0,0.0,2
+dose,float64,0,0.0,3
